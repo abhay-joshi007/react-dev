@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Namaste React Course by Akshay Saini
 
 # _Episode 02 - Igniting Our App_
@@ -15,3 +16,6 @@ In your existing project
 - add `.gitignore` file
 - add `browserlists`
 - build a production version of your code using `parcel build`
+=======
+# react-dev
+>>>>>>> 52f5d96db07551a1e46891b23dc8eeeea82b1133
